@@ -23,13 +23,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: mhredbluz@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="gmail-icon-logo.svg">
     </a>
     <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/marcos-henrique-soares-dutra-0216a7172/)">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="Linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/mhredbluz/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="Instagram.svg">
     </a>
 </div>
   
